@@ -1,7 +1,5 @@
 Hi this is shared
-java
-c++
-rdbms
+
 Node js
 angular js
 embeded system
