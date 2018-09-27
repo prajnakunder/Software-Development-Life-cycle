@@ -1,4 +1,6 @@
 Hi this is shared
-RDBMS
-Java
-c#
+
+Angular js
+embeded system
+mobile computing
+
