@@ -1,2 +1,8 @@
 # Software-Development-Life-cycle
-This is master branch
+Waterfall model
+v model
+v-v model
+prototyping
+Agile model
+Increative
+Iterative 
